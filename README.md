@@ -2,7 +2,7 @@
 My First repository
 
 # Name: **Arnel James G. Delfin**
-## BSCS 3-1AA   ## November 15,2024
+## BSCS 3-1AA    November 15,2024
 
 
 #My Favorite Movie series
@@ -10,7 +10,7 @@ My First repository
 -Harry Potters
 -The Hobbits 
 -Marvels
--
+
 
 ##My favorite Anime 
 1. Naruto
